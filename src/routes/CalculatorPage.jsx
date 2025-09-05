@@ -21,6 +21,7 @@ const CalculatorPage = () => {
   const handleEqual = () =>{
     try {
       setResult(evaluate(input).toString());
+    // eslint-disable-next-line no-unused-vars
     } catch (error) {
       setResult("Erro")
     }

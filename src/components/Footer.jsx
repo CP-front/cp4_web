@@ -12,8 +12,9 @@ const Footer = () => {
   };
 
   return (
-    <footer className="bg-gray-950 text-white p-6 flex flex-col items-center justify-center space-y-4 relative">
+    <footer className="bg-blue-600 text-white p-6 flex flex-col items-center justify-center space-y-4 relative">
       <h3>&copy; 2025 - Todos os direitos reservados</h3>
+      <p className="text-sm mt-2 text-blue-200">Desenvolvido por Visionay Solution</p>
 
       <div className="flex space-x-5">
         <div className="relative">
