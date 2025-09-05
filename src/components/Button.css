@@ -13,16 +13,16 @@
 }
 
 .clear{
-    background-color: #f44336;
+    background-color: #060F4C;
 }
 
 .operator{
-    background-color: #ff9800;
+    background-color: #6587BC;
 }
 
 .equal{
     grid-column: span 2;
-    background-color: #4caf50;
+    background-color: #5c7088;
 }
 
 .button:not(.clear):not(.operator):not(.equal){
