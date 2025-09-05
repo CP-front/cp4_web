@@ -1,1 +1,6 @@
 @import "tailwindcss";
+/* testando animação */
+@keyframes fadeUp {
+  0%   { opacity: 1; transform: translate(-50%, 0); }
+  100% { opacity: 0; transform: translate(-50%, -20px); }
+}
