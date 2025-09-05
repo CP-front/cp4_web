@@ -1,5 +1,5 @@
 import {BrowserRouter, Routes, Route} from 'react-router-dom'
-import { Error}  from './routes/Error'
+import Error  from './routes/Error'
 import Nav from './components/Nav'
 import Footer from './components/Footer'
 import Home from './routes/Home'
