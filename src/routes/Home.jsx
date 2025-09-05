@@ -4,7 +4,7 @@ const Home = () => {
   const navigate = useNavigate();
 
   return (
-    <div className="bg-gray-700 min-h-[calc(100vh-172px)] flex flex-col items-center justify-center p-8 w-screen overflow-hidden">
+    <div className="bg-gray-700 min-h-[calc(100vh-229px)] flex flex-col items-center justify-center p-8 w-screen overflow-hidden">
       <h1 className="text-4xl font-bold text-white-800 mb-8 text-center">Fazer Calculos</h1>
 
       <div>

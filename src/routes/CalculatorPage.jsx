@@ -30,7 +30,6 @@ const CalculatorPage = () => {
 
   return (
     <section className="calculator-container"/*className='bg-gray-200 text-black min-h-screen flex flex-col md:flex-row items-center justify-center p-8'*/>
- 
       <div className="calculator">
         <div className="display">
           <div className="input">{input}</div>
