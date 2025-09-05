@@ -19,6 +19,9 @@ function App() {
         {/* Rota para chamar o Home */}
         <Route path='/' element={<Home/>}/>
 
+        {/*Rota para chamar a Calculadora*/}
+        <Route path='/calculator' element={<CalculatorPage/>}/>
+
       </Routes>
     </main>
     <Footer/>
