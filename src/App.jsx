@@ -1,7 +1,9 @@
 import {BrowserRouter, Routes, Route} from 'react-router-dom'
+import Nav from './components/Nav'
+import Footer from './components/Footer'
 import Error  from './routes/Error'
 import Home from './routes/Home'
-import Footer from './components/Footer'
+import CalculatorPage from './routes/CalculatorPage'
 
 function App() {
 

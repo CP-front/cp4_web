@@ -8,6 +8,9 @@ const Nav = () => {
                 <li className="list-none">
                     <Link to="/" className="hover:text-yellow-300 transition-colors duration-300">Home</Link>
                 </li>
+                <li className="list-none">
+                    <Link to="/calculator" className="hover:text-yellow-300 transition-colors duration-300">Calculadora</Link>
+                </li>
             </ul>
         </nav>
     </header>
