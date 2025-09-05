@@ -23,7 +23,7 @@ const Error = () => {
         </div>
       </div>
     </div>
-  )
+  );
 }
 
-export default Error
+export default Error;
